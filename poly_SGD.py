@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load data from file
-data = np.loadtxt('hw2data1.txt', delimiter=',')
+data = np.loadtxt('Linear_regression_sgd_dataset.txt', delimiter=',')
 
 # Separate into X (feature) and y (target)
 X = data[:, 0]  # Population of the city
