@@ -14,7 +14,7 @@ The goal of this project is to explore different optimization techniques for lin
 
 ## 📊 Dataset
 
-The scripts requires the presence of a dataset file named **`hw2data1.txt`** with the following structure:
+The scripts requires the presence of a dataset file named **`data1.txt`** with the following structure:
 
 Each row corresponds to:
 
